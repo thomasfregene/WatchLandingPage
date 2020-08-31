@@ -9,4 +9,6 @@ body{
     text-align: center;
     font-size: 70px;
     letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Revalia', cursive;
 }
